@@ -22,3 +22,4 @@ onclick과 같은 이벤트 속성들의 값은 자바스크립트 코드가 오
 
 -----------------------------------------
 ![web2page](http://drive.google.com/uc?export=view&id=1qjkPCFFMXPB4MYRijD86JkA-ktVqm14L "web2page")
+자바스크립트 이벤트 기능이 적용된 페이지의 모습이다. 버튼을 클릭할시 사용자의 작업에 따라 페이지가 변화한다.
