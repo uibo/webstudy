@@ -1,0 +1,60 @@
+<!doctype html>
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <title>khu site list</title>
+    <link rel="stylesheet" href="style.css">
+    <script src ="content.js"></script>
+  </head>
+  <body>
+      <h1 id="gd">
+        <div>
+        <a href="index.html" target="_self" title="return to first screen"><img src="khu.jpg"/ width="120px"></a>
+        </div>
+        <div id="gdl"><!-- gdl = 대문글자-->
+        khu site
+        </div>
+      </h1>
+    <div id="column1">
+      <div class="leftlist">
+        <h2>khu site list</h2>
+        <ul>
+          <li><a href="001.html"> khu main page </a> </li>
+          <font size="2">⤷school bus timetable </font>
+          <li><a href="002.html">khu total information system </a> </li>
+          <li><a href="003.html">khu second dormitory </a> </li>
+        </ul>
+        <h2> other page</h2>
+        <ul>
+          <li><a href="http://lol.inven.co.kr/" target="_blank"> lol inven </a> </li>
+          <li><a href="http://www.naver.com/" target="_blank"> naver </a> </li>
+          <li><a href="http://www.google.co.kr/" target="_blank"> google </a> </li>
+        </ul>
+        <h2 class="others"><a class="others" href="000.html"> others</a> </h2>
+      </div>
+      <div id="explain">
+      <h3>Welcome </h3>
+      <iframe name="iframe" width="600" height="340">
+      </iframe>
+      <a href="https://www.youtube.com/embed/0JzERaBLXNU" target="iframe" >lol play video </a>
+      <br><br><br>
+      <input type="button" value=" do click" onclick="alert('clicked')">
+      <input type="text" size="28" style="margin-left : 800px;" value="Don't put the mouse point over it." onmouseover="alert('don\'t!')">
+      <br>
+      <input id="has" type="button" value="hide" onclick="
+      hideshow(this) ;
+      ">
+      <script>
+      var maker2 = ['boui', 'boy']
+      document.write(maker2);
+      var i = 0;
+      while (i <= maker2.length) {
+        document.write("<li>"+maker2[i]+"</li>")
+        i = i + 1 ;
+      }
+      </script>
+      </div>
+    </div>
+  </body>
+</html>
