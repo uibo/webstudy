@@ -43,3 +43,5 @@ HTML 문법
  
  ---------------------------------
  ![web1page](http://drive.google.com/uc?export=view&id=1hXVYW8XNXpykzL9cK2s60pm_EcJYumWi "web1page")
+ 
+ html의 여러가지태그들을 이용하여 글을 작성하고 이미지태그를 이용하여 사진을 첨부하 페이지를 만든 화면이다.
