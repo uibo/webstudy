@@ -42,4 +42,4 @@ HTML 문법
  1960년 군사적 목적을 위해 인터넷이 개발되었고, 1990년 웹이 개발되면서 인터넷이 대중화되어 일반인도 인터넷을 이용할 수 있게 된다. 두 대의 컴퓨터에서 인터넷이 동작할 때 클라이언트의 경우 서버에게 정보를 요청하고 서버는 클라이언트의 요청에 응답하여 요청한 정보를 제공한다.
  
  ---------------------------------
- ![web1page](http://drive.google.com/uc?export=view&id=1hXVYW8XNXpykzL9cK2s60pm_EcJYumWi)
+ ![web1page](http://drive.google.com/uc?export=view&id=1hXVYW8XNXpykzL9cK2s60pm_EcJYumWi "web1page")
