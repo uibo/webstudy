@@ -8,3 +8,4 @@ Viewexample
 응답 웹문서의 기본형태를 뷰 템플릿 파일에 만들어두고 사용합니다. 뷰 템플릿을 사용하면 웹문서의 기본형태는 뷰 템플릿으로 만들고 데이터베이스에서 조회한 데이터를 이 템플릿 안의 적당한 위치에 넣어 웹문서를 만들게 됩니다.
 ![image1](http://drive.google.com/uc?export=view&id=1IPf2dEgKJWwiw-Fm6uC_sOzWu28CyUTd "image1")
 ![image2](http://drive.google.com/uc?export=view&id=13-hNeWQS43HSv72LwumbDDne8I4MyIKU "image2")
+![image3](http://drive.google.com/uc?export=view&id=15gknSR7JQ7drek9xnTIOyi727FzjVtBL "image3")
