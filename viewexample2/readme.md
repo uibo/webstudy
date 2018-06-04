@@ -6,5 +6,6 @@ Viewexample2
 --------------------------------
 pug 포맷은 웹 문서의 태그를 그대로 사용하지 않고 최대한 간단한 형태로 입력하기 때문에 공백과 들여쓰기를 기준으로 태구의 구조가 결정됩니다. 따라서 pug 포맷을 사용하면 HTML 태그를 사용하는것보다 훨씬 적은 내용을 입력해도 웹 문서를 만들 수 있습니다.
 템플릿 파일을 먼저 만들고 pug뷰 엔진에서 응답 웹 문서를 만들때 사용합니다.
+
 ![image1](http://drive.google.com/uc?export=view&id=1jF-7BugEGv0iE5QVzfmaXENT81mqxs0p "image1")
 ![image2](http://drive.google.com/uc?export=view&id=1Ni4LPw1-i30oOsAHYPcBmlWTQLUunScN "image2")
