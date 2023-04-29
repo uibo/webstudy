@@ -21,5 +21,5 @@ onclick에 대한 속성값으로는 자바스크립트가 와야 한다. 사용
 onclick과 같은 이벤트 속성들의 값은 자바스크립트 코드가 오며, 자바스크립트 코드를 이용하여 html에 태그,클래스,id를 선택하고 그 태그에 대해 속성과 값을 부여할 수 있다.
 
 -----------------------------------------
-[web2page](https://uibo.github.io/webstudy/web2/index.html)
+![web2page]http://drive.google.com/uc?export=view&id=1qjkPCFFMXPB4MYRijD86JkA-ktVqm14L "web2page")
 자바스크립트 이벤트 기능이 적용된 페이지의 모습이다. 버튼을 클릭할시 사용자의 작업에 따라 페이지가 변화한다.
